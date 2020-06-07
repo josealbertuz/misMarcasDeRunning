@@ -25,3 +25,6 @@ dentro del archivo appProperties.
 
 5. Para poder enviar notificaciones tanto por email como por Telegram es necesario establecer
 distintos parámetros dentro del archivo appProperties.config.
+
+6. Las librerias están importadas dentro del proyecto, si no funciona dejo los .jar
+para poder usarlos en un nuevo proyecto. 
