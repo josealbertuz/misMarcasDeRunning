@@ -1,10 +1,10 @@
-# misMarcasDeRunning
+#  🏃🏼‍♂️ 🏃🏼‍♀️ misMarcasDeRunning
 
-misMarcasDeRunning es una aplicación que permite al usuario registrar sus marcas obtenidas en carreras pudiendo almacenar sus récords personales en las distintas carreras que hay preinstaladas. Este proyecto ha sido realizado para la asignatura de programación de 1º perteneciente al C.F.G.S. de Desarrollo de Aplicaciones Multiplataforma.
+misMarcasDeRunning es una aplicación que permite al usuario registrar sus marcas obtenidas en carreras pudiendo almacenar sus récords personales en las distintas carreras que hay preinsertadas. Este proyecto ha sido realizado para la asignatura de programación de 1º perteneciente al C.F.G.S. de Desarrollo de Aplicaciones Multiplataforma.
 
 El desarrollo de la app fue avanzando a medida que transcurría el curso, pasando de tener un solo usuario a tener listas de usuarios, una estructura basada en el MVC, envío de notificaciones mediante email y Telegram y añadiendo persistencia al programa con serialización.
 
-# Cosas a tener en cuenta
+# 📐 Cosas a tener en cuenta
 
 Para que el programa pueda tener persistencia e iniciarse hay que tener cuenta las siguientes considerenciones: 
 
