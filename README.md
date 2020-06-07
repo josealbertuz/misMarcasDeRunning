@@ -8,12 +8,12 @@ El desarrollo de la app fue avanzando a medida que transcurría el curso, pasand
 
 Para que el programa pueda tener persistencia e iniciarse hay que tener cuenta las siguientes considerenciones: 
 
-1. El archivo appProperties.config debe de estar siempre junto al codigo o al ejecutable
-Este archivo permite la ejecución del programa y se encuentra dentro de la carpeta
-config.
+1. La carpeta config guarda todas las opciones de configuración de la app. Esta contiene
+al archivo properties que permite la carga de archivos al programa, enviar emails, etc.
+La carpeta debe ir siempre junto al código o al ejecutable.
 
-2. Si la carpeta data existe, dentro del archivo appProperties, hay que poner el ruta
-de dicha carpeta en el apartado "files_location". Esta carpeta se puede mover donde
+2. Si la carpeta data existe y no se encuentra en una ruta relativa, dentro del archivo appProperties, 
+hay que poner el ruta de dicha carpeta en el apartado "files_location". Esta carpeta se puede mover donde
 se quiera siempre y cuando se cambie la ubicación dentro del appProperties. 
 
 3. Si la carpeta no existe el propio programa al iniciarse creará los directorios
