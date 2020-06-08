@@ -28,3 +28,7 @@ distintos parámetros dentro del archivo appProperties.config.
 
 6. Las librerias están importadas dentro del proyecto, si no funciona dejo los .jar
 para poder usarlos en un nuevo proyecto. 
+
+# 📚 Diagrama UML del proyecto
+
+![misMarcasDeRunning](https://user-images.githubusercontent.com/57586962/84024013-664a9900-a989-11ea-9095-4a56b091e9ea.png)
